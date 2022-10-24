@@ -1,3 +1,3 @@
-# Xcode-WeSplit
+# WeSplit
 
 Check-sharing app
