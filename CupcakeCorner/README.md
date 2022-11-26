@@ -1,6 +1,6 @@
 CupcakeCorner
 
-Cakes ordering app
+Cupcakes ordering app
 
 #HackingWithSwift
 
